@@ -1,5 +1,5 @@
 from django.conf.urls import url
-from catalog import views
+from dating_app import views
 
 
 urlpatterns = [
